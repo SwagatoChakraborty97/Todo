@@ -1,0 +1,9 @@
+.form-control {
+    background-color: white;
+}
+/* .form-control:hover { */
+    /* background-color: whitesmoke; */
+/* } */
+.form-control:focus {
+    background-color: whitesmoke;
+}
